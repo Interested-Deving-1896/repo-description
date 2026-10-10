@@ -68,8 +68,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@ioncakephper](https://github.com/ioncakephper) | 55 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
 | [@github-actions[bot]](https://github.com/apps/github-actions) | 6 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 <!-- AI:end:contributors -->
 
 ## Origins
